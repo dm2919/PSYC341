@@ -17,7 +17,7 @@ This site is a set of [open educational resources (OER)](https://en.wikipedia.or
 
 The goal of these materials (and the corresponding course at UMD) is to promote a good understanding of current theories and debates that motivate research in cognitive psychology, understand which research methods are appropriate to address different questions in the field, and have an improved ability to understand and discuss this knowledge through class participation and assignments. We hope to do this in a way that allows you to see the relevance of cognitive psychological research and theories to your own lives.
 
-If you are a UMD student in PSYC 341 with Dr. David Martinez: this is where many of your readings will come from but NOT all!. Please see the syllabus, likely on [ELMS/Canvas](https://elms.umd.edu/)
+If you are a UMD student in PSYC 341 with Dr. David Martinez: this is where many of your readings will come from but NOT all! Please see the syllabus, likely on [ELMS/Canvas](https://elms.umd.edu/).
 
 If you are an instructor of a class related to cognitive psychology, these materials are free for you to use / adapt as you like -- please see the [GitHub README](https://github.com/UMDOER/PSYC341OER/blob/master/README.md) for some basic info on how to adapt these materials for your own purposes. If you are neither a student nor a teacher, well, I'm not sure why you're here, but I hope you find this useful! 
 

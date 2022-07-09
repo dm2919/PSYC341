@@ -26,7 +26,7 @@ intronav:
     url: https://dm2919.github.io/PSYC341/_pages/intromethods.html
     children:
       - title: What is Cognitive Psychology?
-        url: https://dm2919.github.io/PSYC341/_pages/intro-methods/introduction.html
+        url: https://dm2919.github.io/PSYC341/_pages/intromethods.html
       - title: Statistical Thinking
         url: https://dm2919.github.io/PSYC341/_pages/intro-methods/statisticalthinking.html
       - title: Replication Crisis

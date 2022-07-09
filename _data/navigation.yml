@@ -27,10 +27,10 @@ intronav:
     children:
       - title: What is Cognitive Psychology?
         url: https://dm2919.github.io/PSYC341/_pages/intromethods.html
-      - title: Statistical Thinking
-        url: https://dm2919.github.io/PSYC341/_pages/intro-methods/statisticalthinking.html
       - title: Replication Crisis
         url: https://dm2919.github.io/PSYC341/_pages/intro-methods/replicationcrisis.html
+      - title: Statistical Thinking
+        url: https://dm2919.github.io/PSYC341/_pages/intro-methods/statisticalthinking.html
       - title: Research Designs
         url: https://dm2919.github.io/PSYC341/_pages/intro-methods/researchdesigns.html
       - title: Thinking Like a Psychological Scientist

@@ -41,7 +41,7 @@ These two variables reveal two fundamental aspects of statistical thinking:
 Addressing the research question of whether the cancer pamphlets are written at appropriate levels for the cancer patients requires comparing the two distributions. A naïve comparison might focus only on the centers of the distributions. Both medians turn out to be ninth grade, but considering only medians ignores the variability and the overall distributions of these data. A more illuminating approach is to compare the entire distributions, for example with a graph, as in Figure 1.
 <figure>
     <img src="https://dm2919.github.io/PSYC341/images/stat2.jpg" style="width:100%">
-    <figcaption> Figure 1: </figcaption>
+    <figcaption> Figure 1 </figcaption>
 </figure>
 Figure 1 makes clear that the two distributions are not well aligned at all. The most glaring discrepancy is that many patients (17/63, or 27%, to be precise) have a reading level below that of the most readable pamphlet. These patients will need help to understand the information provided in the cancer pamphlets. Notice that this conclusion follows from considering the distributions as a whole, not simply measures of center or variability, and that the graph contrasts those distributions more immediately than the frequency tables.
 

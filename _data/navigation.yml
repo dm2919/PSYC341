@@ -23,6 +23,7 @@ intronav:
   - title: Home
     url: https://umdoer.github.io/PSYC341OER/
   - title: Introduction, Methods, and History
+    url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/
     children:
       - title: What is Cognitive Psychology?
         url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/introduction.html

@@ -111,14 +111,14 @@ memorynav:
         
 knowrepnav:
   - title: Home
-  - url: https://dm2919.github.io/PSYC341/
+    url: https://dm2919.github.io/PSYC341/
   - title: Knowledge Rep
-  - url: https://dm2919.github.io/PSYC341/_pages/conceptsandcategories/conceptsandcategories.html
+    url: https://dm2919.github.io/PSYC341/_pages/conceptsandcategories/conceptsandcategories.html
     children:
       - title: Concepts and Categories
-      - url: https://dm2919.github.io/PSYC341/_pages/conceptsandcategories/conceptsandcategories.html
+        url: https://dm2919.github.io/PSYC341/_pages/conceptsandcategories/conceptsandcategories.html
       - title: Representation of Knowledge
-      - url: https://dm2919.github.io/PSYC341/_pages/conceptsandcategories/knowledgerepresentation.html
+        url: https://dm2919.github.io/PSYC341/_pages/conceptsandcategories/knowledgerepresentation.html
 
 langnav:
   - title: Home

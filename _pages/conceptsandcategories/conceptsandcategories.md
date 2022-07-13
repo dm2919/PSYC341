@@ -1,7 +1,7 @@
 ---
 layout: single
 sidebar:
-  nav: "memorynav"
+  nav: "knowrepnav"
 ---
 
 # Categories and Concepts

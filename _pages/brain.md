@@ -1,7 +1,7 @@
 ---
 layout: single
 sidebar:
-  nav: "brain"
+  nav: "brainnav"
 ---
 
 # The Brain

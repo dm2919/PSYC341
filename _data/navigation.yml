@@ -4,6 +4,8 @@ docs:
     children:
       - title: Intro, History, Methods
         url: https://dm2919.github.io/PSYC341/_pages/intromethods.html
+      - title: The Brain
+        url: https://dm2919.github.io/PSYC341/_pages/brain.html
       - title: Sensation and Perception
         url: https://dm2919.github.io/PSYC341/_pages/sensation-perception.html
       - title: Attention and Consciousness
@@ -37,6 +39,12 @@ intronav:
         url: https://dm2919.github.io/PSYC341/_pages/intro-methods/researchdesigns.html
       - title: Thinking Like a Psychological Scientist
         url: https://dm2919.github.io/PSYC341/_pages/intro-methods/thinkinglikeapsychscientist.html
+        
+brainnav:
+  - title: Home
+    url: https://dm2919.github.io/PSYC341/
+  - title: The Brain
+    url: https://dm2919.github.io/PSYC341/_pages/brain.html
 
 senpernav:
   - title: Home

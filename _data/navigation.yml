@@ -132,20 +132,8 @@ langnav:
   - title: Language
     url: https://dm2919.github.io/PSYC341/_pages/language.html
     children:
-      - title: Speech perception and language use
+      - title: Language
         url: https://dm2919.github.io/PSYC341/_pages/language.html
-      - title: Language and brain
-        url: https://dm2919.github.io/PSYC341/_pages/language/langbrain.html
-  - title: Other Resources
-    children:
-      - title: McGurk effect
-        url: https://dm2919.github.io/PSYC341/_pages/language/mcgurk.html
-      - title: Ismo (comedian) on linguistic ambiguity
-        url: https://dm2919.github.io/PSYC341/_pages/language/ismo.html
-      - title: Aphasia
-        url: https://dm2919.github.io/PSYC341/_pages/language/aphasia.html
-      - title: Animal Communication
-        url: https://dm2919.github.io/PSYC341/_pages/language/animalcomm.html
 
 probnav:
   - title: Home

@@ -98,6 +98,11 @@ These types of controversies compel many lay people to wonder if there might be 
 ## Conclusion
 Although you might not be able to spell “esquamulose” or “staphylococci” – indeed, you might not even know what they mean—you don’t need to count yourself out in the intelligence department. Now that we have examined intelligence in depth we can return to our intuitive view of those students who compete in the National Spelling Bee. Are they smart? Certainly, they seem to have high verbal intelligence. There is also the possibility that they benefit from either a genetic boost in intelligence, a supportive social environment, or both. Watching them spell difficult words there is also much we do not know about them. We cannot tell, for instance, how emotionally intelligent they are or how they might use bodily-kinesthetic intelligence. This highlights the fact that intelligence is a complicated issue. Fortunately, psychologists continue to research this fascinating topic and their studies continue to yield new insights.
 
+
+# Next, read Problem Solving and Creativity on ELMS before continuing to Creativity in this text. 
+
+
+
 ## Discussion Questions
 * Do you think that people get smarter as they get older? In what ways might people gain or lose intellectual abilities as they age?
 * When you meet someone who strikes you as being smart what types of cues or information do you typically attend to in order to arrive at this judgment?

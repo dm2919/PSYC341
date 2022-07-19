@@ -65,7 +65,9 @@ These days, most researchers agree that the most sensible approach to learn abou
 
 Note: The historical overview of the way people thought about the unconscious is largely based on Koestler (1964).
 
+
 # Don't Forget to Read article on ELMS about a study using Hitchcock films to look at attention. 
+
 
 ## Discussion Questions
 * Assess both the strengths and weaknesses of the famous Libet study.

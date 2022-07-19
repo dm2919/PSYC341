@@ -4,7 +4,6 @@ sidebar:
   nav: "knowrepnav"
 ---
 
-# Knowledge Representation
+# Knowledge Representation and Imagery Too
 
-As noted in the syllabus for this reading, see ELMS/CANVAS. 
-The title should be "RepOfKnowledge".
+As noted in the syllabus see ELMS/CANVAS for "RepOfKnowledge" AND "Imagery".

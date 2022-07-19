@@ -3,6 +3,9 @@ layout: single
 sidebar:
   nav: "probnav"
 ---
+
+# Did you read Problem Solving and Creativiy on ELMS first? If not, go do that then continue with this reading. 
+
 # Creativity
 <cite>Adapted from Simonton, D. K. (2021). Creativity. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/nwzd6yuc </cite>
 {: .small}

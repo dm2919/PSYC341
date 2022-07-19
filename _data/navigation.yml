@@ -100,8 +100,6 @@ memorynav:
         url: https://dm2919.github.io/PSYC341/_pages/memory/forgetting.html
       - title: Factors influencing learning
         url: https://dm2919.github.io/PSYC341/_pages/learning-expertise/learning.html
-      - title: Categories and Concepts
-        url: https://dm2919.github.io/PSYC341/_pages/memory/categoriesandconcepts.html
   - title: Other resources
     children:
       - title: Twisted (doc on false memories)

@@ -76,9 +76,9 @@ attconnav:
       - title: Inattentional Blindness
         url: https://dm2919.github.io/PSYC341/_pages/attention-consciousness/inattentionalblindness.html
       - title: Consciousness
-      - url: https://dm2919.github.io/PSYC341/_pages/attention-consciousness/consciousness.html
+        url: https://dm2919.github.io/PSYC341/_pages/attention-consciousness/consciousness.html
       - title: Unconsciousness
-      - url: https://dm2919.github.io/PSYC341/_pages/attention-consciousness/unconsciousness.html
+        url: https://dm2919.github.io/PSYC341/_pages/attention-consciousness/unconsciousness.html
   - title: Other resources
     children:
       - title: Video on Neglect

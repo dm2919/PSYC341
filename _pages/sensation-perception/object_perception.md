@@ -111,9 +111,7 @@ A defining feature of the recognition-by-components theory is that it enables us
 
 Our knowledge of these properties means that when viewing an object or geon, we can perceive it from almost any angle. For example, when viewing a brick we will be able to see horizontal sets of parallel lines and vertical ones, and when considering where these points meet (co-termination) we are able to perceive the object.
 
-### A dark side of top-down perception: Bias, prejudice, and cultural factors
 
-In this chapter, you have learned that perception is a complex process. Built from sensations, but influenced by our own experiences, biases, prejudices, and cultures, perceptions can be very different from person to person. These top-down aspects of perception can have a dark side: Research suggests that implicit racial prejudice and stereotypes affect perception. For instance, several studies have demonstrated that non-Black participants identify weapons faster and are more likely to identify non-weapons as weapons when the image of the weapon is paired with the image of a Black person (e.g., Payne, Shimizu, & Jacoby, 2005). Similarly, White individuals’ decisions to shoot an armed target in a video game is made more quickly when the target is Black (Correll, Park, Judd, & Wittenbrink, 2002). 
 
 ## Conclusion
 
@@ -123,12 +121,10 @@ We somehow generate a perception of a world full of distinct objects despite typ
 ## References
 * Biederman, I. (1987). Recognition-by-components: A theory of human image understanding. Psychological Review. 94 (2): 115–47. 
 * Biederman, I. (2000). Recognizing depth-rotated objects: A review of recent research and theory. Spatial Vision, 13, 241–253.
-* Correll, J., Park, B., Judd, C. M., & Wittenbrink, B. (2002). The police officer's dilemma: Using ethnicity to disambiguate potentially threatening individuals. Journal of Personality and Social Psychology, 83(6), 1314.
 * Gibson, J. J. (1966).The Senses Considered as Perceptual Systems. Boston: Houghton Mifflin.
 * Gregory, R. (1970). The Intelligent Eye. New York: McGraw-Hill
 * Hubel, D. H., & Wiesel, T. N. (1962). Receptive fields, binocular interaction and functional architecture in the cat's visual cortex. The Journal of Physiology, 160(1), 106-154.
 * Lindsay, P. H., & Norman, D. A. (1972). An Introduction to Psychology. New York, NY: Academic Press
-* Payne, B. K., Shimizu, Y., & Jacoby, L. L. (2005). Mental control and visual illusions: Toward explaining race-biased weapon misidentifications. Journal of Experimental Social Psychology, 41(1), 36-47.
 * Rock, I., & Palmer, S. (1990). The legacy of Gestalt psychology. Scientific American, 263(6), 84-91.
 * Selfridge, O.G. (1959) Pandemonium: a paradigm for learning. In Proceedings of the Symposium on Mechanisation of Thought Processes (Blake, D.V. and Uttley, A.M., eds), pp. 511–529, H.M. Stationary Office
 * Solso, R., and McCarthy, J.E. (1981). Prototype formation of faces: A case of pseudomemory. British Journal of Psychology, 72, 499-503.
